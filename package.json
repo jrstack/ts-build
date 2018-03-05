@@ -1,0 +1,23 @@
+{
+  "name": "@jrstack/ts-build",
+  "version": "2.7.2",
+  "description": "For building ts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrstack/ts-build.git"
+  },
+  "author": "Jim Roberts <Roberts.Jim@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jrstack/ts-build/issues"
+  },
+  "homepage": "https://github.com/jrstack/ts-build#readme",
+  "devDependencies": {
+    "@types/node": "^9.4.6",
+    "typescript": "2.7.2"
+  }
+}
