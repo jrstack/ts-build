@@ -1,6 +1,6 @@
 {
   "name": "@jrstack/ts-build",
-  "version": "2.7.2",
+  "version": "2.7.2-1",
   "description": "For building ts.",
   "main": "index.js",
   "scripts": {
